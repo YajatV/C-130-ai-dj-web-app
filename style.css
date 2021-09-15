@@ -1,0 +1,60 @@
+.heading{
+    font-weight:bold;
+    font-size:35px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px gray;
+    font-family: 'Shadows Into Light', cursive;
+}
+.note{
+font-size:18px;
+color:black;
+}
+
+body{
+    background-size:cover;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_speed_img{
+    width:200px;
+    border-radius:100px;
+}
+
+#speed{
+    font-size:23px;
+    margin:15px;
+}
+
+.div_volume{
+    float:right;
+}
+
+.div_volume_img{
+    width:200px;
+    border-radius:100px;
+}
+
+#volume{
+    font-size:23px;
+    margin:15px;
+}
+
+.play_button, .stop_button{
+    width:130px;
+    font-size:23px;
+    box-shadow:3px 3px 3px orange;
+    margin:10px;
+}
+
+canvas{
+background-color:white;
+border:3px solid white;
+border-radius:20px;
+box-shadow:3px 3px 3px whitesmoke;
+margin-top: 100px;
+}
